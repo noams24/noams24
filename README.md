@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on my final degree project[MoneyMate](google.com)
+- 🔭 I’m currently working on my final degree project [MoneyMate](google.com)
 
 - 🌱 I’m currently learning **Deep Learning and Data Mining**
 
