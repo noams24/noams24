@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/noam-sadeh/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Some kaggle projects:</h3>
 <p align="left">
 <a href="https://kaggle.com/noam24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="noam24" height="30" width="40" /></a>
 </p>
