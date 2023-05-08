@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a full stack project as part of my final degree [MoneyMate](google.com)
 
-- 🌱 I’m currently learning **Deep Learning and Data Mining**
+- 🌱 I’m currently learning **Deep Learning and Data Mining** courses
 
 - 📫 How to reach me **https://www.linkedin.com/in/noam-sadeh/**
 
