@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a full stack project as part of my final degree [MoneyMate](https://sadna-moneymate.vercel.app)
+- 🔭 Check my latest full stack project as part of my final degree [MoneyMate](https://sadna-moneymate.vercel.app)
 
 - 🌱 I’m currently learning **Deep Learning and Data Mining** courses
 
