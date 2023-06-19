@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noam Sadeh</h1>
-<h3 align="center">A Senior student at the Open university of Israel</h3>
+<h3 align="center">Last year student at the Open university of Israel</h3>
 
 
 
