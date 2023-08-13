@@ -2,9 +2,9 @@
 <h3 align="center">Last year student at the Open university of Israel</h3>
 
 
-- 🔭 Check my latest full stack project as part of my final degree [MoneyMate](https://sadna-moneymate.vercel.app)
+- 🔭 Check my final degree project: [MoneyMate](https://sadna-moneymate.vercel.app) , [git repo](https://github.com/noams24/Final-Degree-Project)
 
-- 👨‍💻 Check my latest full-stack project: [Git](https://github.com/noams24/Kef-Code) , [Kef-Code](https://kef-code.vercel.app)
+- 👨‍💻 Check my latest full-stack project: [Kef-Code](https://kef-code.vercel.app), [git repo](https://github.com/noams24/Kef-Code)
 
 - 🌱 I’m currently learning **Introduction to the Theory of Computation, Modern Systems Analysis & Design, Seminar in AI** courses
 
