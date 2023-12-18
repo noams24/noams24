@@ -6,7 +6,7 @@
 
 - 👨‍💻 Check my latest open source Full-Stack project: [Kef-Code](https://kef-code.vercel.app), [github](https://github.com/noams24/Kef-Code)
 
-- 🌱 I’m currently learning **Introduction to the Theory of Computation, Modern Systems Analysis & Design, Seminar in AI** courses
+- 🌱 I’m currently learning **Introduction to the Theory of Computation, Modern Systems Analysis & Design** courses
 
 
 
