@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noam Sadeh</h1>
-<h3 align="center">Last year student at the Open university of Israel</h3>
-
-
-- 🔭 Check my final degree project: [MoneyMate](https://sadna-moneymate.vercel.app) , [github](https://github.com/noams24/Final-Degree-Project)
+<h3 align="center">B.Sc in Computer Science, Open University of Israel</h3>
 
 - 👨‍💻 Check my latest open source Full-Stack project: [Kef-Code](https://kef-code.vercel.app), [github](https://github.com/noams24/Kef-Code)
 
-- 🌱 I’m currently learning **Introduction to the Theory of Computation, Modern Systems Analysis & Design** courses
+- 🔭 Check my final degree project: [MoneyMate](https://sadna-moneymate.vercel.app) , [github](https://github.com/noams24/Final-Degree-Project)
 
+- 🌱 I’m currently learning C# and .NET
 
 
 <h3 align="left">Languages and Tools:</h3>
